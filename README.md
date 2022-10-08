@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2>Hi there, I'm Thien 👋, just a guy interested in robots.  <img src="https://media.giphy.com/media/eJjtbsQEbN9xJB4P0k/giphy.gif" height="25"> </h2>
 
 - 🔭 I’m currently working on robotic perception, particularly for UAVs.
